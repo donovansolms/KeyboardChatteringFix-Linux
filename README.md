@@ -1,3 +1,7 @@
+
+> [!WARNING]  
+> This is a fork of the original repo to ensure I have access to this fix
+
 # __Keyboard Chattering Fix for Linux__
 
 [![GitHub](https://img.shields.io/github/license/w2sv/KeyboardChatteringFix-Linux?)](LICENSE)
